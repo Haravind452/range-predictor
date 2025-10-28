@@ -156,4 +156,4 @@ if st.session_state["stations"]:
 # FOOTER
 # -------------------------------
 st.markdown("---")
-st.caption("Developed by Haravind | EV Sustainability Project 🌱")
+st.caption("Developed with 🩷 | EV Sustainability Project 🌱")
